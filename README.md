@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # PTI: Projecte de Tecnologies de la Informació 
 ## Lab sessions
 
@@ -12,4 +11,3 @@
 =======
 # pti
 Practices for a PTI (Information Tecnologies Project)
->>>>>>> d5d076bfcc14a1c9b8cca4aef0de79cd2a1cfdff
