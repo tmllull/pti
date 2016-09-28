@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<carRental><rental vin="Dummy"><marca>Opel</marca><model>Astra</model><start>123</start><fi>345</fi></rental><rental vin="Dummy"><marca>Ford</marca><model>Fiesta</model><start>3434</start><fi>3434</fi></rental><rental vin="Dummy"><marca>Seat</marca><model>Arosa</model><start>345</start><fi>789</fi></rental></carRental>
