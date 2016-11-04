@@ -11,3 +11,7 @@
 =======
 # pti
 Practices for a PTI (Information Tecnologies Project)
+
+Some changes
+
+More changes
